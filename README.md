@@ -1,2 +1,2 @@
 # Guessing-colour-game
-my new work
+my new repository
